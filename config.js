@@ -7,8 +7,7 @@ const CONFIG = {
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'cứ trả lời thật lòng nhá🥰',
-    desc: 'Mai ngày anh sẽ nấu cơm
-    Tập kho cá vs thơm ',
+    desc: 'Mai ngày anh sẽ nấu cơm Học kho cá vs thơm )) ',
     btnYes: 'Thích lắm <33',
     btnNo: 'Không nha :3',
     question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
